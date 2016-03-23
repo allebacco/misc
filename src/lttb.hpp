@@ -4,6 +4,7 @@
 #include <QPointF>
 #include <qmath.h>
 
+
 /* Qt implementation of downsampling algorithm by Sveinn Steinarsson
    http://skemman.is/stream/get/1946/15343/37285/3/SS_MSthesis.pdf
 */
